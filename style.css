@@ -20,6 +20,7 @@ nav {
     width: 50%;
     padding: 1%;
     background-color: darkgrey;
+    text-align: right;
 }
 
 .ulNav {
@@ -35,7 +36,7 @@ nav {
 .content {
     width: 500px;
     margin: 0 auto;
-    align-items: flex-end;
+    align-self: stretch;
 }
 
 footer {
@@ -58,6 +59,7 @@ li {
     height: 300px;
     align-self: auto;
     opacity: .3;
+    align-self: right;
 }
 
 .selfPhoto {
