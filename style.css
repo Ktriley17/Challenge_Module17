@@ -1,0 +1,74 @@
+HTML {
+    background-color: #373738;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    height: 300px;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%
+}
+
+header {
+    place-content: center;
+}
+nav {
+    width: 50%;
+    padding: 1%;
+    background-color: darkgrey;
+}
+
+.ulNav {
+    width: 50%;
+    margin-left: auto;
+}
+
+.image-20.png {
+    height: 100px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+    align-items: flex-end;
+}
+
+footer {
+    background-color: #373738;
+}
+
+.ulFooter {
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
+}
+
+li {
+    padding: 10px;
+    align-content: center;
+    color: white;
+}
+
+.logoImg {
+    height: 300px;
+    align-self: auto;
+    opacity: .3;
+}
+
+.selfPhoto {
+    height: 300px;
+    width: 240px;
+    padding: 25px;
+    
+}
+
+.aboutMe {
+    color: white
+}
+
+
